@@ -1,0 +1,8 @@
+prefix=/home/carson/leap_to_parrot/devel
+
+Name: leap_to_parrot
+Description: Description of leap_to_parrot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/carson/leap_to_parrot/devel/lib 
+Requires: 

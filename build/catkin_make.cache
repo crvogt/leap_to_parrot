@@ -1,0 +1,2 @@
+leap_to_parrot
+-DCATKIN_DEVEL_PREFIX=/home/carson/leap_to_parrot/devel -DCMAKE_INSTALL_PREFIX=/home/carson/leap_to_parrot/install -G Unix Makefiles
