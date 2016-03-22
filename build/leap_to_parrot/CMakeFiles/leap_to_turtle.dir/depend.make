@@ -7,6 +7,7 @@ leap_to_parrot/CMakeFiles/leap_to_turtle.dir/src/leap_to_turtle.cpp.o: /opt/ros/
 leap_to_parrot/CMakeFiles/leap_to_turtle.dir/src/leap_to_turtle.cpp.o: /opt/ros/indigo/include/geometry_msgs/Point.h
 leap_to_parrot/CMakeFiles/leap_to_turtle.dir/src/leap_to_turtle.cpp.o: /opt/ros/indigo/include/geometry_msgs/Twist.h
 leap_to_parrot/CMakeFiles/leap_to_turtle.dir/src/leap_to_turtle.cpp.o: /opt/ros/indigo/include/geometry_msgs/Vector3.h
+leap_to_parrot/CMakeFiles/leap_to_turtle.dir/src/leap_to_turtle.cpp.o: /opt/ros/indigo/include/leap_motion/leapros.h
 leap_to_parrot/CMakeFiles/leap_to_turtle.dir/src/leap_to_turtle.cpp.o: /opt/ros/indigo/include/ros/advertise_options.h
 leap_to_parrot/CMakeFiles/leap_to_turtle.dir/src/leap_to_turtle.cpp.o: /opt/ros/indigo/include/ros/advertise_service_options.h
 leap_to_parrot/CMakeFiles/leap_to_turtle.dir/src/leap_to_turtle.cpp.o: /opt/ros/indigo/include/ros/assert.h
@@ -62,4 +63,5 @@ leap_to_parrot/CMakeFiles/leap_to_turtle.dir/src/leap_to_turtle.cpp.o: /opt/ros/
 leap_to_parrot/CMakeFiles/leap_to_turtle.dir/src/leap_to_turtle.cpp.o: /opt/ros/indigo/include/ros/wall_timer_options.h
 leap_to_parrot/CMakeFiles/leap_to_turtle.dir/src/leap_to_turtle.cpp.o: /opt/ros/indigo/include/rosconsole/macros_generated.h
 leap_to_parrot/CMakeFiles/leap_to_turtle.dir/src/leap_to_turtle.cpp.o: /opt/ros/indigo/include/std_msgs/Float64.h
+leap_to_parrot/CMakeFiles/leap_to_turtle.dir/src/leap_to_turtle.cpp.o: /opt/ros/indigo/include/std_msgs/Header.h
 
